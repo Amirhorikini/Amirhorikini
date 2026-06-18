@@ -62,7 +62,8 @@ Me chamo Amir Horiquini, Biomédico & Nutricionista, Mestre em Biociências pela
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Nextflow" title="Nextflow" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/nextflow.svg" />
 <img align="left" alt="NCBI" title="NCBI / BLAST" width="30px" style="padding-right: 10px;" src="https://www.ncbi.nlm.nih.gov/favicon.ico" />
-<img align="left" alt="Ensembl" title="Ensembl" width="30px" style="padding-right: 10px;" src="https://www.ensembl.org/favicon.ico" />
+<a href="https://github.com/ensembl" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/5832463?s=280&v=4" height="30" alt="Ensembl" />
 <img align="left" alt="Anaconda" title="Anaconda / Conda" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
 
 <br/>
