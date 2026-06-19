@@ -103,7 +103,7 @@ Me chamo Amir Horiquini, Biomédico & Nutricionista, Mestre em Biociências pela
         <li style="margin-bottom: 16px; display: flex; align-items: center;">
           <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Graduation%20cap/3D/graduation_cap_3d.png" width="32px" style="margin-right: 12px; float: left;" />
           <div style="overflow: hidden;">
-            <strong>26 Alunos Orientados</strong><br />
+            <strong> +30 Alunos Orientados</strong><br />
             <sub>Pós-graduação, TCC e Iniciação Científica</sub>
           </div>
         </li>
